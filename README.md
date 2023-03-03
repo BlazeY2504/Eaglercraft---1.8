@@ -1,4 +1,4 @@
-# BlazeY2504 Eaglercraft - 1.8
+# BlazeX2504 Eaglercraft - 1.8
 The unblocked version of eaglercraft as a file that has been saved by me to send
 
 To get the file just click the EaglerX.html above and download the file then go into your files and just click it
