@@ -15,7 +15,11 @@ Zentic: wss://zentic.cc - Bedwars, Practice, Skywars, Crystal
 
 Asspixel: wss://mc.asspixel.net - Asspixel is one of the biggest servers in eaglercraft and has a lot of minigames including Bedwars, Skywars, Bridge Duels and more!
 
+BlobCraft: wss://blobcraft.duckdns.org - Duels, KitPVP, Bedwars, CrystalPVP
+
 BlazeYT2504: (progressive) - This is my server so you can join me and has survival
+
+MusicDisc: wss://tutorial-useless.braedendietrick.repl.co - An smp server with lifesteal and islands
 
 Uef: (progressive) This is my friend's server and is the most populated so far and has a pvp arena.
 
